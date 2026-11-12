@@ -41,7 +41,7 @@ They also make use of the rest of the TT:
 | Jet        | `JETMESH.TOS`               | TT med | ~20 fps           | ~10 fps           |
 | Mandelbrot | `MANDEL.TOS`                | TT low | 5–8 s a frame     | 10–50 s a frame   |
 
-¹ In Hatari 2.6.1 as a TT with TOS 3.06; not yet tested on a real TT.  
+¹ TT with TOS 3.06.
 ² From atarist-sfp004: 320×200 in ST low, on a 16 MHz Mega STE with a 68882
 (the Mandelbrot in Hatari).
 
