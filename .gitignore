@@ -1,0 +1,7 @@
+# Build products
+dist/
+*.o
+*.a
+
+# macOS
+.DS_Store
